@@ -1,0 +1,9 @@
+C:\Users\Олег\Documents\Visual Studio 2010\Projects\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\Users\Олег\Documents\Visual Studio 2010\Projects\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Олег\Documents\Visual Studio 2010\Projects\FileManager\FileManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Олег\Documents\Visual Studio 2010\Projects\FileManager\FileManager\obj\x86\Debug\FileManager.Form1.resources
+C:\Users\Олег\Documents\Visual Studio 2010\Projects\FileManager\FileManager\obj\x86\Debug\FileManager.Properties.Resources.resources
+C:\Users\Олег\Documents\Visual Studio 2010\Projects\FileManager\FileManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Олег\Documents\Visual Studio 2010\Projects\FileManager\FileManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Олег\Documents\Visual Studio 2010\Projects\FileManager\FileManager\obj\x86\Debug\FileManager.exe
+C:\Users\Олег\Documents\Visual Studio 2010\Projects\FileManager\FileManager\obj\x86\Debug\FileManager.pdb
